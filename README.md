@@ -50,4 +50,5 @@ If you encounter any problems or have questions, please open an issue on the pro
 
 ## License
 
-This bot is released under the MIT License.
+This bot is released under the MIT License. See [LICENSE](https://opensource.org/license/mit) for more information.
+```
